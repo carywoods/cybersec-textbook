@@ -205,7 +205,10 @@ out.append("This page reports the size of each chapter and of each section withi
            f"generated automatically from the book source. Approximate pages assume about {WORDS_PER_PAGE} words per "
            f"page.\n\nLast generated: {datetime.date.today().isoformat()}.\n")
 grand_md=0; grand_code=0
-summary=["## Summary by Chapter\n","| Chapter | Markdown words | Code words | Approx. pages |","|---|---:|---:|---:|"]
+summary=["## Summary by Chapter\n",
+         "The table lists every part of the book with its prose word count, the words in its code cells, and an "
+         "approximate page count, and ends with the totals for the whole book.\n",
+         "| Chapter | Markdown words | Code words | Approx. pages |","|---|---:|---:|---:|"]
 detail=[]
 for name, sections, tmd, tcode in rows:
     grand_md+=tmd; grand_code+=tcode
@@ -220,6 +223,8 @@ for name, sections, tmd, tcode in rows:
 summary.append(f"| **TOTAL** | **{grand_md:,}** | **{grand_code:,}** | **{_pages(grand_md):.0f}** |")
 out += summary
 out.append("\n## Detailed Word Count by Section\n")
+out.append("Each chapter below has its own table that breaks the prose word count down by section, which shows "
+           "where the reading load within a chapter sits.\n")
 out += detail
 os.makedirs("chapters/appendix_g", exist_ok=True)
 open("chapters/appendix_g/appendix_g.md","w").write("\n".join(out)+"\n")
