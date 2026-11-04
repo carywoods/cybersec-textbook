@@ -330,6 +330,8 @@ decryption). Every one of those is a place where an unstated assumption could hi
 
 ## J.9 Worked Numerical Examples
 
+Five short calculations put numbers on the models in this appendix: the deterrence factor that makes cheating irrational under covert security, the bits of security lost when a scheme is deployed to many users, corruption thresholds for passive, active, and mixed adversaries, the cost of complexity leveraging, and proactive refresh against a mobile adversary.
+
 **Example J.1 (covert security: the minimum deterrence factor).** An adversary gains $G = 100$ units by cheating
 and loses $P = 1000$ units if caught. With deterrence factor $\epsilon$, its expected utility from cheating is
 
@@ -367,6 +369,8 @@ lifetime total.
 
 ## J.10 Exercises
 
+These ten exercises test whether you can identify the right behavioral model, compute deterrence factors and multi-user security loss, compare security notions, and write a complete threat-model statement. Work through them before checking the answer key below.
+
 1. A protocol is proved secure against semi-honest adversaries. A reviewer objects that a participant could
    submit a fabricated input. Which behavioral model does that objection invoke, and is the proof wrong?
 2. Explain why IND-CCA2 is unachievable for any homomorphic encryption scheme, in two sentences.
@@ -386,6 +390,8 @@ lifetime total.
 10. Why does a rational-adversary protocol avoid a fixed, publicly known number of rounds?
 
 ### Answer Key
+
+Short answers to the ten exercises follow, each with the calculation or reasoning behind it, so you can check your method as well as your result.
 
 1. It invokes the semi-malicious model (protocol-conformant messages, adversarially chosen input). The proof
    is not wrong; it is simply proved in a weaker model, and the claim must be restated or the protocol

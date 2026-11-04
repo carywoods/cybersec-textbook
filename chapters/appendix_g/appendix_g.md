@@ -2,47 +2,51 @@
 
 This page reports the size of each chapter and of each section within it, measured in markdown words (the prose; code and figures are additional and reported separately per chapter). It is generated automatically from the book source. Approximate pages assume about 500 words per page.
 
-Last generated: 2026-10-28.
+Last generated: 2026-11-04.
 
 ## Summary by Chapter
+
+The table lists every part of the book with its prose word count, the words in its code cells, and an approximate page count, and ends with the totals for the whole book.
 
 | Chapter | Markdown words | Code words | Approx. pages |
 |---|---:|---:|---:|
 | Introduction | 1,814 | 0 | 3.6 |
-| Preface | 433 | 0 | 0.9 |
-| Chapter 1: Introduction to Cybersecurity | 16,783 | 403 | 33.6 |
-| Chapter 2: Cryptography | 38,983 | 3,254 | 78.0 |
-| Chapter 3: Networking and Network Attacks | 17,033 | 374 | 34.1 |
-| Chapter 4: Social Engineering and the Human Element | 7,647 | 203 | 15.3 |
-| Chapter 5: Risk Management | 17,001 | 696 | 34.0 |
-| Chapter 6: Penetration Testing Methodology | 9,787 | 265 | 19.6 |
-| Chapter 7: Reconnaissance and Open-Source Intelligence | 7,605 | 464 | 15.2 |
-| Chapter 8: Scanning and Enumeration | 7,242 | 816 | 14.5 |
-| Chapter 9: Exploitation and Post-Exploitation | 23,683 | 778 | 47.4 |
-| Chapter 10: Web Application Security | 9,726 | 516 | 19.5 |
-| Chapter 11: Network Defense and Hardening | 22,325 | 258 | 44.6 |
-| Chapter 12: Intrusion Detection and Prevention Systems | 12,439 | 1,114 | 24.9 |
-| Chapter 13: Digital Forensics | 10,469 | 875 | 20.9 |
-| Chapter 14: Incident Response | 10,784 | 828 | 21.6 |
-| Chapter 15: Malware Analysis | 42,883 | 423 | 85.8 |
-| Chapter 16: Capture the Flag and Competitive Security | 12,924 | 818 | 25.8 |
-| Chapter 17: Emerging Threats and Future Challenges | 23,531 | 1,806 | 47.1 |
-| Chapter 18: Privacy, Law, and Information Governance | 7,069 | 387 | 14.1 |
-| Chapter 19: Security Governance, Policy, and Culture | 15,865 | 482 | 31.7 |
-| Chapter 20: Industrial Control Systems and OT Security | 13,679 | 442 | 27.4 |
-| Appendix A: Security Command Reference | 1,681 | 0 | 3.4 |
-| Appendix B: Glossary | 5,659 | 0 | 11.3 |
-| Appendix C: Certification Mapping | 1,861 | 0 | 3.7 |
-| Appendix D: ABET Outcomes and Bloom's Taxonomy Mapping | 775 | 0 | 1.6 |
-| Appendix E: Selected Works by the Author | 1,583 | 0 | 3.2 |
-| Appendix F: Companion Code and Repositories | 1,284 | 0 | 2.6 |
+| Preface | 486 | 0 | 1.0 |
+| Chapter 1: Introduction to Cybersecurity | 17,142 | 403 | 34.3 |
+| Chapter 2: Cryptography | 46,170 | 4,187 | 92.3 |
+| Chapter 3: Networking and Network Attacks | 17,477 | 374 | 35.0 |
+| Chapter 4: Social Engineering and the Human Element | 7,837 | 203 | 15.7 |
+| Chapter 5: Risk Management | 17,262 | 696 | 34.5 |
+| Chapter 6: Penetration Testing Methodology | 9,989 | 265 | 20.0 |
+| Chapter 7: Reconnaissance and Open-Source Intelligence | 7,806 | 464 | 15.6 |
+| Chapter 8: Scanning and Enumeration | 7,419 | 816 | 14.8 |
+| Chapter 9: Exploitation and Post-Exploitation | 25,504 | 778 | 51.0 |
+| Chapter 10: Web Application Security | 10,127 | 516 | 20.3 |
+| Chapter 11: Network Defense and Hardening | 23,546 | 258 | 47.1 |
+| Chapter 12: Intrusion Detection and Prevention Systems | 13,283 | 1,114 | 26.6 |
+| Chapter 13: Digital Forensics | 11,534 | 875 | 23.1 |
+| Chapter 14: Incident Response | 11,668 | 828 | 23.3 |
+| Chapter 15: Malware Analysis | 45,539 | 423 | 91.1 |
+| Chapter 16: Capture the Flag and Competitive Security | 13,602 | 818 | 27.2 |
+| Chapter 17: Emerging Threats and Future Challenges | 24,552 | 1,806 | 49.1 |
+| Chapter 18: Privacy, Law, and Information Governance | 7,723 | 387 | 15.4 |
+| Chapter 19: Security Governance, Policy, and Culture | 17,150 | 482 | 34.3 |
+| Chapter 20: Industrial Control Systems and OT Security | 14,627 | 442 | 29.3 |
+| Appendix A: Security Command Reference | 2,019 | 0 | 4.0 |
+| Appendix B: Glossary | 5,863 | 0 | 11.7 |
+| Appendix C: Certification Mapping | 2,091 | 0 | 4.2 |
+| Appendix D: ABET Outcomes and Bloom's Taxonomy Mapping | 856 | 0 | 1.7 |
+| Appendix E: Selected Works by the Author | 1,836 | 0 | 3.7 |
+| Appendix F: Companion Code and Repositories | 1,388 | 0 | 2.8 |
 | Appendix H: Capstone and Group Project Ideas | 2,765 | 0 | 5.5 |
-| Appendix I: Protocol Security Reference | 4,073 | 0 | 8.1 |
-| Appendix J: Adversary Models | 3,794 | 0 | 7.6 |
+| Appendix I: Protocol Security Reference | 4,630 | 0 | 9.3 |
+| Appendix J: Adversary Models | 3,911 | 0 | 7.8 |
 | Appendix K: Course Materials and Sample Assignments | 2,408 | 0 | 4.8 |
-| **TOTAL** | **355,588** | **15,202** | **711** |
+| **TOTAL** | **380,024** | **16,135** | **760** |
 
 ## Detailed Word Count by Section
+
+Each chapter below has its own table that breaks the prose word count down by section, which shows where the reading load within a chapter sits.
 
 
 ### Introduction
@@ -60,7 +64,7 @@ Last generated: 2026-10-28.
 
 ### Preface
 
-*433 markdown words (0.9 pages); 0 code words.*
+*486 markdown words (1.0 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
@@ -73,12 +77,12 @@ Last generated: 2026-10-28.
 
 ### Chapter 1: Introduction to Cybersecurity
 
-*16,783 markdown words (33.6 pages); 403 code words.*
+*17,142 markdown words (34.3 pages); 403 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 229 |
-| Key Terms | 418 |
+| Key Terms | 460 |
 | 1.1 What Is Cybersecurity? | 636 |
 | 1.2 The CIA Triad and Its Extensions | 792 |
 |     The DIE Model: A Modern Complement to CIA | 254 |
@@ -89,7 +93,7 @@ Last generated: 2026-10-28.
 | 1.6 Hardware Foundations: Rings, Modes, and the Trusted Computing Base | 1,133 |
 |     What Runs at Each Level | 569 |
 |     Why Rings 1 and 2 Were Meant for Device Drivers | 936 |
-|     Beneath Ring 0: The Hypervisor, System Management Mode, and the Security Processor | 703 |
+|     Beneath Ring 0: The Hypervisor, System Management Mode, and the Security Processor | 755 |
 |     The Trusted Platform Module Up Close | 565 |
 |     Trusted Execution Environments: Enclaves, Secure Worlds, and Confidential Virtual Machines | 978 |
 |     The Trusted Computing Base and the Reference Monitor | 170 |
@@ -102,8 +106,8 @@ Last generated: 2026-10-28.
 | 1.12 Classic Security Models | 96 |
 |     Confidentiality: Bell-LaPadula | 230 |
 |     Integrity: Biba and Clark-Wilson | 306 |
-|     Hybrid and Specialized Models | 175 |
-|     Foundational System Models | 189 |
+|     Hybrid and Specialized Models | 218 |
+|     Foundational System Models | 239 |
 |     Security Models versus Cryptographic Security Definitions | 224 |
 | 1.13 Security versus Resilience | 214 |
 | Chapter Summary | 307 |
@@ -111,19 +115,19 @@ Last generated: 2026-10-28.
 | News in Focus: The Colonial Pipeline Ransomware Incident (2021) | 215 |
 |     A Second Case: The SolarWinds Supply-Chain Compromise (2020) | 266 |
 | News in Focus: Cyber Warfare and the US-Iran Cyber Conflict | 535 |
-| Review Questions (MCQ) | 558 |
+| Review Questions (MCQ) | 604 |
 |     Answer Key | 45 |
-| Lab Assignment | 248 |
-| References | 907 |
+| Lab Assignment | 281 |
+| References | 930 |
 
 ### Chapter 2: Cryptography
 
-*38,983 markdown words (78.0 pages); 3,254 code words.*
+*46,170 markdown words (92.3 pages); 4,187 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 185 |
-| Key Terms | 799 |
+| Key Terms | 836 |
 | 2.1 What Cryptography Is and What It Promises | 387 |
 |     Encoding versus Encryption versus Hashing | 876 |
 | 2.2 Classical Ciphers and Why They Fall | 730 |
@@ -141,7 +145,9 @@ Last generated: 2026-10-28.
 | 2.5 Symmetric Encryption: Stream and Block Ciphers | 1,007 |
 |     The Feistel Network: A Blueprint for Block Ciphers | 223 |
 | 2.6 Block Cipher Modes of Operation | 688 |
-|     AES Modes in Code: ECB versus CTR | 327 |
+|     AES Modes in Code: ECB versus CTR | 328 |
+|     AES-CTR versus AES-GCM, and Which Modes Need Padding | 903 |
+|     The Complete Catalog: NIST-Approved Modes and the Modes Outside the List | 1,597 |
 | 2.7 Cryptographic Hash Functions | 803 |
 |     The Length Extension Attack, and Why MAC Construction Is Not Obvious | 466 |
 |     The Merkle-Damgard Construction | 215 |
@@ -150,8 +156,9 @@ Last generated: 2026-10-28.
 | 2.8 Message Authentication Codes and Authenticated Encryption | 596 |
 |     Hash, MAC, and Digital Signature Compared | 729 |
 |     Wrong-Key Behavior: Garbage Output versus Null Rejection | 531 |
-|     The Three-Behavior Hierarchy of Incorrect Decryption | 2,301 |
+|     The Three-Behavior Hierarchy of Incorrect Decryption | 3,453 |
 |     Computing an HMAC in Code | 98 |
+|     HMAC and CMAC Are Not the Only MACs | 1,424 |
 |     Authenticated Encryption in Practice: Encrypt-then-MAC | 190 |
 | 2.9 Key Derivation and Password Storage | 654 |
 | 2.10 Public-Key Cryptography and RSA | 847 |
@@ -172,7 +179,7 @@ Last generated: 2026-10-28.
 |     The Mathematics of Lattices | 315 |
 |     Three Families by Underlying Structure: Abelian, Non-Abelian, and Lattice | 298 |
 | 2.15a Privacy-Preserving Cryptography and the Wider Toolbox | 116 |
-|     Anonymous Credentials and Selective Disclosure | 1,420 |
+|     Anonymous Credentials and Selective Disclosure | 1,469 |
 |     The Signature Zoo: Variants Beyond Sign-and-Verify | 694 |
 |     Primitives Beyond Encryption and Signatures | 924 |
 | 2.16 Key Management | 714 |
@@ -192,22 +199,22 @@ Last generated: 2026-10-28.
 |     Writing a Security Analysis: Proof Sketches and Experimental Evaluation | 374 |
 | 2.21 Post-Quantum Standards and the Migration Timeline | 378 |
 |     Worked Example: Toy Ring-LWE Encryption | 60 |
-| Chapter Summary | 194 |
+| Chapter Summary | 206 |
 | Why This Matters | 161 |
 | News in Focus: Heartbleed (2014) | 202 |
-| Review Questions (MCQ) | 503 |
-|     Answer Key | 36 |
-| Lab Assignment | 419 |
-| References | 1,568 |
+| Review Questions (MCQ) | 858 |
+|     Answer Key | 52 |
+| Lab Assignment | 622 |
+| References | 2,941 |
 
 ### Chapter 3: Networking and Network Attacks
 
-*17,033 markdown words (34.1 pages); 374 code words.*
+*17,477 markdown words (35.0 pages); 374 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 152 |
-| Key Terms | 461 |
+| Key Terms | 514 |
 | 3.1 Why Networking Is the Battleground | 359 |
 | 3.2 The OSI Model | 550 |
 |     Mapping the OSI and TCP/IP Models | 276 |
@@ -238,31 +245,31 @@ Last generated: 2026-10-28.
 |     Access Control Lists, NACLs, and Security Groups | 515 |
 | 3.11 Securing the Network: A Preview | 173 |
 |     Secure Network Protocols | 203 |
-|     Going Deeper: Routing Security and BGP Hijacking | 180 |
+|     Going Deeper: Routing Security and BGP Hijacking | 229 |
 |     Network Access Control | 144 |
 | 3.12 QUIC, HTTP/3, and Encrypted Client Hello | 223 |
 | 3.13 The Access Link: How a Network Connects to the Internet | 568 |
-|     Exercises | 72 |
-|     Answer Key | 149 |
+|     Exercises | 116 |
+|     Answer Key | 183 |
 | 3.14 Premises Wireless: Wi-Fi Generations, Extenders, and Mesh | 575 |
-|     Exercises | 59 |
-|     Answer Key | 145 |
+|     Exercises | 102 |
+|     Answer Key | 176 |
 | Chapter Summary | 215 |
 | Why This Matters | 153 |
 | News in Focus: The Mirai Botnet and the Dyn Attack (2016) | 186 |
-| Review Questions (MCQ) | 384 |
+| Review Questions (MCQ) | 424 |
 |     Answer Key | 30 |
-| Lab Assignment | 393 |
-| References | 346 |
+| Lab Assignment | 440 |
+| References | 384 |
 
 ### Chapter 4: Social Engineering and the Human Element
 
-*7,647 markdown words (15.3 pages); 203 code words.*
+*7,837 markdown words (15.7 pages); 203 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 115 |
-| Key Terms | 169 |
+| Key Terms | 210 |
 | 4.1 Why People Are the Weakest Link | 565 |
 | 4.2 The Psychology of Influence | 468 |
 | 4.3 The Social-Engineering Attack Lifecycle | 463 |
@@ -280,19 +287,19 @@ Last generated: 2026-10-28.
 | Chapter Summary | 219 |
 | Why This Matters | 169 |
 | News in Focus: The 2020 Twitter Account Takeover | 185 |
-| Review Questions (MCQ) | 396 |
+| Review Questions (MCQ) | 430 |
 |     Answer Key | 30 |
-| Lab Assignment | 243 |
-| References | 162 |
+| Lab Assignment | 275 |
+| References | 184 |
 
 ### Chapter 5: Risk Management
 
-*17,001 markdown words (34.0 pages); 696 code words.*
+*17,262 markdown words (34.5 pages); 696 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 189 |
-| Key Terms | 198 |
+| Key Terms | 236 |
 | 5.1 Risk as the Organizing Principle of Security | 395 |
 | 5.2 The Vocabulary of Risk | 607 |
 | 5.3 The Risk-Management Lifecycle | 399 |
@@ -302,7 +309,7 @@ Last generated: 2026-10-28.
 | 5.5 Qualitative Risk Assessment | 508 |
 | 5.6 Quantitative Risk Assessment | 722 |
 | 5.7 Risk Treatment | 928 |
-|     A Worked Analogy: The Skateboard and the Scraped Knee | 2,852 |
+|     A Worked Analogy: The Skateboard and the Scraped Knee | 2,911 |
 | 5.8 Threat Modeling | 782 |
 | 5.9 Risk Frameworks and Standards | 329 |
 |     The NIST RMF Steps in Detail | 170 |
@@ -326,19 +333,19 @@ Last generated: 2026-10-28.
 | Chapter Summary | 242 |
 | Why This Matters | 164 |
 | News in Focus: Repeat Breaches at Neiman Marcus | 540 |
-| Review Questions (MCQ) | 436 |
+| Review Questions (MCQ) | 473 |
 |     Answer Key | 34 |
-| Lab Assignment | 210 |
-| References | 303 |
+| Lab Assignment | 242 |
+| References | 329 |
 
 ### Chapter 6: Penetration Testing Methodology
 
-*9,787 markdown words (19.6 pages); 265 code words.*
+*9,989 markdown words (20.0 pages); 265 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 132 |
-| Key Terms | 147 |
+| Key Terms | 184 |
 | 6.1 Why Methodology Matters | 409 |
 | 6.2 What Penetration Testing Is, and Is Not | 584 |
 | 6.3 Hats and Team Colors | 273 |
@@ -360,19 +367,19 @@ Last generated: 2026-10-28.
 | 6.18 Limitations, Pitfalls, and Misconceptions | 307 |
 | Chapter Summary | 227 |
 | Why This Matters | 156 |
-| Review Questions (MCQ) | 388 |
+| Review Questions (MCQ) | 429 |
 |     Answer Key | 30 |
-| Lab Assignment | 218 |
-| References | 177 |
+| Lab Assignment | 250 |
+| References | 202 |
 
 ### Chapter 7: Reconnaissance and Open-Source Intelligence
 
-*7,605 markdown words (15.2 pages); 464 code words.*
+*7,806 markdown words (15.6 pages); 464 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 93 |
-| Key Terms | 173 |
+| Key Terms | 207 |
 | 7.1 Why Reconnaissance Comes First | 501 |
 | 7.2 Footprinting: Passive and Active | 338 |
 | 7.3 Open-Source Intelligence (OSINT) | 612 |
@@ -392,19 +399,19 @@ Last generated: 2026-10-28.
 | Why This Matters | 132 |
 | News in Focus: Mass Scraping of Public Profiles (2021) | 215 |
 |     Finding Exposed Devices with Shodan, and Defending Them | 448 |
-| Review Questions (MCQ) | 372 |
+| Review Questions (MCQ) | 406 |
 |     Answer Key | 30 |
-| Lab Assignment | 185 |
-| References | 189 |
+| Lab Assignment | 228 |
+| References | 220 |
 
 ### Chapter 8: Scanning and Enumeration
 
-*7,242 markdown words (14.5 pages); 816 code words.*
+*7,419 markdown words (14.8 pages); 816 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 152 |
-| Key Terms | 180 |
+| Key Terms | 222 |
 | 8.1 From Reconnaissance to Active Probing | 301 |
 | 8.2 The Scanning Taxonomy and the Tyranny of Time | 168 |
 |     Why Scanning Time Dominates Planning | 304 |
@@ -432,23 +439,23 @@ Last generated: 2026-10-28.
 | Chapter Summary | 119 |
 | Why This Matters | 125 |
 | News in Focus: Internet-Scale Scanning as an Early-Warning Signal | 253 |
-| Review Questions (MCQ) | 310 |
+| Review Questions (MCQ) | 349 |
 |     Answer Key | 82 |
 | Lab Assignment | 315 |
-| References | 187 |
+| References | 218 |
 
 ### Chapter 9: Exploitation and Post-Exploitation
 
-*23,683 markdown words (47.4 pages); 778 code words.*
+*25,504 markdown words (51.0 pages); 778 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 91 |
-| Key Terms | 189 |
-| 9.1 What Exploitation Is (and Is Not) | 0 |
+| Key Terms | 236 |
+| 9.1 What Exploitation Is (and Is Not) | 48 |
 |     In a Penetration Test | 53 |
 |     Ethical Boundaries | 64 |
-| 9.2 Common Vulnerability Classes | 0 |
+| 9.2 Common Vulnerability Classes | 46 |
 |     Injection Vulnerabilities | 123 |
 |     Memory Corruption | 161 |
 |     Authentication and Session Vulnerabilities | 33 |
@@ -464,115 +471,115 @@ Last generated: 2026-10-28.
 |     Privilege Escalation in Depth | 196 |
 |     Post-Exploitation, Lateral Movement, and Defense Evasion | 391 |
 |     Software Design Patterns and Security | 402 |
-| 9.10 Metasploit Framework | 0 |
+| 9.10 Metasploit Framework | 43 |
 |     Structure | 51 |
 |     Responsible Use | 46 |
-| 9.11 Privilege Escalation | 0 |
+| 9.11 Privilege Escalation | 45 |
 |     Linux Privilege Escalation | 142 |
-|     Windows Privilege Escalation | 85 |
-| 9.12 Lateral Movement | 0 |
+|     Windows Privilege Escalation | 129 |
+| 9.12 Lateral Movement | 43 |
 |     Pass-the-Hash | 61 |
 |     Pass-the-Ticket | 62 |
-| 9.13 Persistence | 0 |
-|     Common Persistence Mechanisms and Their Detection Signatures | 93 |
+| 9.13 Persistence | 35 |
+|     Common Persistence Mechanisms and Their Detection Signatures | 143 |
 | 9.14 Privilege Escalation Paths: Windows, Linux, and Active Directory | 303 |
 | 9.15 A Worked Stack Buffer Overflow, Start to Finish | 388 |
 | 9.16 Format-String and Heap Vulnerabilities | 186 |
 | 9.17 Defeating Mitigations: Return-Oriented Programming | 258 |
-|     Exercises | 78 |
-|     Answer Key | 129 |
+|     Exercises | 124 |
+|     Answer Key | 162 |
 | 9.18 Linux Privilege Escalation in Depth | 267 |
 | 9.19 Windows Exploitation Specifics | 143 |
 | 9.20 Command-and-Control and Post-Exploitation Frameworks | 182 |
-|     Exercises | 92 |
-|     Answer Key | 101 |
+|     Exercises | 129 |
+|     Answer Key | 132 |
 | 9.21 Finding Vulnerabilities: Fuzzing in Depth | 174 |
 | 9.22 From Crash to Exploit: Reliability and Weaponization | 208 |
-|     Exercises | 84 |
-|     Answer Key | 131 |
+|     Exercises | 121 |
+|     Answer Key | 164 |
 | 9.23 Case Study: Chaining Vulnerabilities into a Full Compromise | 341 |
 | 9.24 Defending Against Exploitation | 235 |
-|     Exercises | 87 |
-|     Answer Key | 140 |
+|     Exercises | 130 |
+|     Answer Key | 173 |
 | 9.25 Shellcode in Practice | 270 |
 | 9.26 The Metasploit Workflow, End to End | 226 |
-|     Exercises | 63 |
-|     Answer Key | 108 |
+|     Exercises | 98 |
+|     Answer Key | 139 |
 | 9.27 The Machine Underneath: Registers, the Stack, and Calling Conventions | 779 |
 |     The Prologue and Epilogue, Instruction by Instruction | 1,150 |
 |     Worked Examples: Registers and the Stack, Step by Step | 1,656 |
-|     Exercises | 249 |
-|     Answer Key | 408 |
+|     Exercises | 296 |
+|     Answer Key | 439 |
 | 9.28 A Debugger Session, Step by Step | 491 |
-|     Exercises | 73 |
-|     Answer Key | 116 |
+|     Exercises | 114 |
+|     Answer Key | 154 |
 | 9.29 Return-Oriented Programming, Worked | 445 |
-|     Exercises | 64 |
-|     Answer Key | 120 |
+|     Exercises | 107 |
+|     Answer Key | 154 |
 | 9.30 Heap Exploitation Internals | 648 |
-|     Exercises | 65 |
-|     Answer Key | 141 |
+|     Exercises | 100 |
+|     Answer Key | 177 |
 | 9.31 Defeating Modern Mitigations: Information Leaks and Canary Bypasses | 456 |
-|     Exercises | 60 |
-|     Answer Key | 142 |
+|     Exercises | 101 |
+|     Answer Key | 174 |
 | 9.32 Windows Exploitation: Structured Exception Handler Overwrites | 383 |
-|     Exercises | 58 |
-|     Answer Key | 113 |
+|     Exercises | 95 |
+|     Answer Key | 145 |
 | 9.33 Patch Diffing and N-Day Exploitation | 420 |
-|     Exercises | 60 |
-|     Answer Key | 127 |
+|     Exercises | 94 |
+|     Answer Key | 159 |
 | 9.34 Toward Automated Vulnerability Discovery: Symbolic Execution | 383 |
-|     Exercises | 49 |
-|     Answer Key | 140 |
+|     Exercises | 83 |
+|     Answer Key | 169 |
 | 9.35 A Field Guide to Bug Classes | 474 |
-|     Exercises | 76 |
-|     Answer Key | 125 |
+|     Exercises | 111 |
+|     Answer Key | 159 |
 | 9.36 Password Cracking and Credential Attacks | 565 |
-|     Exercises | 57 |
-|     Answer Key | 119 |
+|     Exercises | 93 |
+|     Answer Key | 152 |
 | 9.37 Lab: Memory-Corruption Bugs in C | 585 |
-|     Exercises | 66 |
-|     Answer Key | 131 |
+|     Exercises | 107 |
+|     Answer Key | 167 |
 | 9.38 How Kerberos Works, and Where Each Attack Breaks In | 45 |
 |     The problem single sign-on solves | 184 |
-|     The three exchanges | 256 |
-|     Where each attack breaks in | 314 |
+|     The three exchanges | 310 |
+|     Where each attack breaks in | 357 |
 | 9.39 Landmark Bugs, from the Morris Worm to the Year 2038 | 853 |
 |     Y2K and the Year 2038, Worked | 128 |
 | Chapter Summary | 155 |
 | Why This Matters | 62 |
 | News in Focus: The Ransomware Post-Exploitation Playbook | 78 |
-| Review Questions (MCQ) | 285 |
-| Lab Assignment | 189 |
-| References | 444 |
+| Review Questions (MCQ) | 320 |
+| Lab Assignment | 230 |
+| References | 477 |
 
 ### Chapter 10: Web Application Security
 
-*9,726 markdown words (19.5 pages); 516 code words.*
+*10,127 markdown words (20.3 pages); 516 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 109 |
-| Key Terms | 177 |
+| Key Terms | 216 |
 | 10.1 How the Web Works: HTTP, Sessions, and the Same-Origin Policy | 237 |
 | 10.2 The OWASP Top 10 | 62 |
 |     Broken Access Control | 169 |
 |     The OWASP Top 10:2025 | 428 |
-| 10.3 Injection Attacks | 0 |
+| 10.3 Injection Attacks | 48 |
 |     Introducing SQL Injection | 179 |
 |     Cross-Site Scripting | 154 |
 |     Cross-Site Request Forgery | 99 |
 |     Server-Side Request Forgery | 65 |
-| 10.4 SQL Injection in Depth | 0 |
+| 10.4 SQL Injection in Depth | 51 |
 |     Database Models: Traditional and Modern | 763 |
 | 10.5 Cross-Site Scripting (XSS) | 378 |
 | 10.6 Broken Access Control, CSRF, SSRF, and Other High-Impact Flaws | 214 |
 |     Insecure Direct Object References in Depth | 1,166 |
-| 10.7 Authentication and Session Management | 0 |
+| 10.7 Authentication and Session Management | 49 |
 |     Broken Authentication | 165 |
 |     Authentication, Sessions, and the Insufficient-Session-Expiration Flaw | 145 |
 | 10.8 Security Misconfigurations | 51 |
-|     Security Headers | 69 |
+|     Security Headers | 109 |
 | 10.9 The Web-Application Testing Toolkit | 355 |
 | 10.10 Application Security Testing: Static, Dynamic, Interactive, and DevSecOps | 433 |
 | 10.11 Web Application Firewalls and Their Limits | 40 |
@@ -593,28 +600,28 @@ Last generated: 2026-10-28.
 | Chapter Summary | 162 |
 | Why This Matters | 79 |
 | News in Focus: SQL Injection Breaches That Persist | 78 |
-| Review Questions (MCQ) | 314 |
-| Lab Assignment | 154 |
-| References | 268 |
+| Review Questions (MCQ) | 353 |
+| Lab Assignment | 191 |
+| References | 299 |
 
 ### Chapter 11: Network Defense and Hardening
 
-*22,325 markdown words (44.6 pages); 258 code words.*
+*23,546 markdown words (47.1 pages); 258 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 178 |
-| Key Terms | 363 |
+| Key Terms | 398 |
 | 11.1 Firewalls | 161 |
-|     Firewall Types and Evolution | 144 |
-|     Writing Firewall Rules | 154 |
+|     Firewall Types and Evolution | 188 |
+|     Writing Firewall Rules | 200 |
 | 11.2 Firewall Types and Topologies | 399 |
 |     Physical and Virtual Firewalls | 174 |
 |     Stateless and Stateful Packet Filtering | 514 |
-| 11.3 Network Segmentation | 0 |
+| 11.3 Network Segmentation | 49 |
 |     DMZ Architecture | 200 |
 |     VLAN and Micro-Segmentation | 198 |
-| 11.4 Zero-Trust Architecture | 0 |
+| 11.4 Zero-Trust Architecture | 50 |
 |     The Zero-Trust Principle | 498 |
 | 11.5 DNS Security | 20 |
 |     DNSSEC | 44 |
@@ -627,12 +634,12 @@ Last generated: 2026-10-28.
 | 11.7 Proxies, VPNs, and Tor | 284 |
 | 11.8 Network Access Control and 802.1X | 49 |
 |     802.1X Operation | 59 |
-| 11.9 DDoS and Mitigation | 0 |
-|     DDoS Attack Categories | 73 |
+| 11.9 DDoS and Mitigation | 46 |
+|     DDoS Attack Categories | 115 |
 |     DDoS Mitigation | 60 |
 | 11.10 Authentication, Identity, and Access | 355 |
-|     Biometrics and the Reality of False Positives and Negatives | 392 |
-|     Identity Providers, Identity Management, and Who Does What | 1,212 |
+|     Biometrics and the Reality of False Positives and Negatives | 439 |
+|     Identity Providers, Identity Management, and Who Does What | 1,295 |
 | 11.11 Network Monitoring and Visibility | 365 |
 | 11.12 Deception: Honeypots, Honeynets, and Honeytokens | 175 |
 | 11.13 Network Forensics in Defense | 159 |
@@ -648,38 +655,38 @@ Last generated: 2026-10-28.
 |     A ruleset with three defects | 376 |
 |     The four anomalies, named | 181 |
 |     Why this is a tool problem | 163 |
-|     Exercises | 147 |
-|     Answer Key | 212 |
+|     Exercises | 189 |
+|     Answer Key | 237 |
 | 11.21 What Connection State Costs | 104 |
 |     How big the table is | 149 |
 |     How long an entry lives | 152 |
 |     How fast an attacker fills it | 188 |
 |     What happens when it is full | 49 |
 |     What state buys, and the honest trade | 264 |
-|     Exercises | 122 |
-|     Answer Key | 217 |
+|     Exercises | 163 |
+|     Answer Key | 248 |
 | 11.22 Network Address Translation, and the Security It Does Not Provide | 128 |
 |     What the standard actually says | 256 |
-|     A column-by-column answer | 219 |
+|     A column-by-column answer | 258 |
 |     Carrier-grade NAT, and the arithmetic that broke attribution | 227 |
 | 11.23 A Worked Segmentation of a Small Enterprise | 69 |
 |     Step one: inventory, grouped by who owns the risk | 97 |
-|     Step two: addresses and VLANs | 141 |
+|     Step two: addresses and VLANs | 185 |
 |     Step three: the decision count, which is the real cost | 103 |
-|     Step four: the matrix, written as permitted flows only | 587 |
+|     Step four: the matrix, written as permitted flows only | 636 |
 |     Step five: micro-segmentation, and why it is a different kind of problem | 115 |
-|     Exercises | 90 |
-|     Answer Key | 156 |
+|     Exercises | 127 |
+|     Answer Key | 187 |
 | 11.24 The 802.1Q Tag, and the Two Ways Out of a VLAN | 78 |
 |     What a VLAN is, on the wire | 520 |
 |     The native VLAN, which is the exception that the attacks live in | 76 |
 |     Way out one: become a trunk | 101 |
 |     Way out two: two tags, one strip | 216 |
-|     The configuration that closes both | 245 |
-|     Exercises | 92 |
-|     Answer Key | 201 |
+|     The configuration that closes both | 280 |
+|     Exercises | 128 |
+|     Answer Key | 233 |
 | 11.25 Egress Filtering, and the Price of Seeing Inside TLS | 118 |
-|     Restrict the destinations | 162 |
+|     Restrict the destinations | 201 |
 |     Or inspect the contents, and pay for it | 339 |
 | 11.26 SMB File Sharing on Windows and macOS, and How to Secure It | 200 |
 |     How SMB works | 439 |
@@ -688,24 +695,24 @@ Last generated: 2026-10-28.
 |     What the defaults do not protect: a measured example | 307 |
 |     What attackers do with SMB | 430 |
 |     Hardening Windows | 625 |
-|     Hardening macOS | 267 |
-|     Exercises | 231 |
-|     Answer Key | 451 |
+|     Hardening macOS | 320 |
+|     Exercises | 266 |
+|     Answer Key | 490 |
 | Chapter Summary | 204 |
 | Why This Matters | 72 |
 | News in Focus: Flat Networks and Nation-State Lateral Movement | 64 |
-| Review Questions (MCQ) | 299 |
-| Lab Assignment | 159 |
-| References | 1,355 |
+| Review Questions (MCQ) | 334 |
+| Lab Assignment | 196 |
+| References | 1,388 |
 
 ### Chapter 12: Intrusion Detection and Prevention Systems
 
-*12,439 markdown words (24.9 pages); 1,114 code words.*
+*13,283 markdown words (26.6 pages); 1,114 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 123 |
-| Key Terms | 171 |
+| Key Terms | 211 |
 | 12.1 Detection System Types | 127 |
 |     Network-Based IDS and IPS | 141 |
 |     Host-Based IDS | 49 |
@@ -720,41 +727,41 @@ Last generated: 2026-10-28.
 |     SIEM Architecture | 110 |
 |     SIEM Challenges | 59 |
 |     SIEM, SOAR, XDR, and EDR: The Detection Stack | 269 |
-| 12.4 UEBA and Threat Hunting | 0 |
+| 12.4 UEBA and Threat Hunting | 54 |
 |     User and Entity Behavior Analytics | 58 |
-|     Threat Hunting | 189 |
+|     Threat Hunting | 228 |
 |     Detection Engineering, Threat Hunting, and Deception | 350 |
 | 12.5 The Cyber Kill Chain and MITRE ATT&CK | 616 |
 | 12.6 Modern SOC Operations: EDR, XDR, SOAR, and Detection Engineering | 220 |
 | 12.7 Writing Detection Rules: Snort, YARA, and Sigma | 341 |
 | 12.8 SIEM Correlation and Tuning | 190 |
-|     Exercises | 102 |
-|     Answer Key | 121 |
+|     Exercises | 147 |
+|     Answer Key | 149 |
 | 12.9 Network Security Monitoring | 177 |
 | 12.10 Host Telemetry and EDR Internals | 164 |
 | 12.11 Threat Hunting | 178 |
-|     Exercises | 88 |
-|     Answer Key | 124 |
+|     Exercises | 126 |
+|     Answer Key | 150 |
 | 12.12 Deception: Honeypots and Honeytokens | 190 |
 | 12.13 Log Sources, Normalization, and the SOC Workflow | 115 |
 |     Log Management: Retention, Integrity, and the Questions Logs Must Survive | 676 |
 | 12.14 Evading Detection | 159 |
-|     Exercises | 97 |
-|     Answer Key | 129 |
+|     Exercises | 131 |
+|     Answer Key | 158 |
 | 12.15 Case Study: Detecting an Intrusion Across the Kill Chain | 279 |
 | 12.16 Measuring and Maturing Detection | 181 |
-|     Exercises | 100 |
-|     Answer Key | 130 |
+|     Exercises | 143 |
+|     Answer Key | 164 |
 | 12.17 A Detection Content Library | 294 |
 | 12.18 Lab: A Mini Detection Pipeline | 63 |
-|     Exercises | 84 |
-|     Answer Key | 127 |
+|     Exercises | 122 |
+|     Answer Key | 159 |
 | 12.19 Packet Analysis for Detection | 418 |
-|     Exercises | 66 |
-|     Answer Key | 122 |
+|     Exercises | 101 |
+|     Answer Key | 146 |
 | 12.20 Building and Tuning a Detection, End to End | 363 |
-|     Exercises | 53 |
-|     Answer Key | 116 |
+|     Exercises | 86 |
+|     Answer Key | 143 |
 | 12.21 Threat Hunting with the Logs You Already Have | 241 |
 |     Hunt 1: the noisiest source of failed logins | 107 |
 |     Hunt 2: a success after many failures from the same address | 258 |
@@ -764,41 +771,41 @@ Last generated: 2026-10-28.
 |     Hunt 6: every command run as root, and who reached for a shell | 228 |
 |     Hunt 7: invert your normal egress ports | 226 |
 |     A hunt is a habit, not a tool | 137 |
-|     Exercises | 148 |
-|     Answer Key | 261 |
+|     Exercises | 184 |
+|     Answer Key | 288 |
 | Chapter Summary | 91 |
 | Why This Matters | 85 |
 | News in Focus: Breaches That Were Detectable but Missed | 69 |
-| Review Questions (MCQ) | 306 |
-| Lab Assignment | 183 |
-| References | 169 |
+| Review Questions (MCQ) | 345 |
+| Lab Assignment | 220 |
+| References | 206 |
 
 ### Chapter 13: Digital Forensics
 
-*10,469 markdown words (20.9 pages); 875 code words.*
+*11,534 markdown words (23.1 pages); 875 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 99 |
-| Key Terms | 244 |
-| 13.1 Forensic Principles | 0 |
+| Key Terms | 291 |
+| 13.1 Forensic Principles | 53 |
 |     The Locard Exchange Principle | 69 |
 |     Forensic Soundness | 125 |
 |     The Forensic Process, Order of Volatility, and Chain of Custody | 234 |
-| 13.2 Evidence Acquisition | 0 |
+| 13.2 Evidence Acquisition | 47 |
 |     Write Blockers | 64 |
 |     Forensic Imaging | 107 |
 |     Hash Verification | 62 |
-| 13.3 File System Forensics | 0 |
-|     NTFS Artefacts | 125 |
+| 13.3 File System Forensics | 62 |
+|     NTFS Artefacts | 174 |
 |     Deleted Files and Unallocated Space | 60 |
 |     Disk, Memory, and Mobile Forensics in Practice | 289 |
-| 13.4 Memory Forensics | 0 |
+| 13.4 Memory Forensics | 58 |
 |     Why Memory Matters | 54 |
 |     Acquiring Memory | 56 |
 |     Analyzing Memory with Volatility | 91 |
-| 13.5 Network Forensics | 0 |
-|     PCAP Analysis | 98 |
+| 13.5 Network Forensics | 45 |
+|     PCAP Analysis | 143 |
 | 13.6 Anti-Forensics | 85 |
 |     Countermeasures | 55 |
 | 13.7 Artificial Intelligence in Digital Evidence Triage | 224 |
@@ -814,56 +821,56 @@ Last generated: 2026-10-28.
 | 13.17 Mobile Device Forensics | 201 |
 | 13.18 Email, Log, and Cloud-Account Forensics | 183 |
 | 13.19 The Forensic Report and Expert Testimony | 139 |
-|     Exercises | 105 |
-|     Answer Key | 143 |
+|     Exercises | 146 |
+|     Answer Key | 171 |
 | 13.20 Acquisition in Practice: Live versus Dead, and Verification | 221 |
 | 13.21 Anti-Forensics in Depth | 234 |
 | 13.22 From Artifact to Narrative | 259 |
-|     Exercises | 97 |
-|     Answer Key | 117 |
+|     Exercises | 139 |
+|     Answer Key | 148 |
 | 13.23 Case Study: Reconstructing an Intrusion | 359 |
 | 13.24 The Forensic Toolkit | 245 |
-|     Exercises | 81 |
-|     Answer Key | 131 |
+|     Exercises | 120 |
+|     Answer Key | 165 |
 | 13.25 Windows Event Log Reference for Investigators | 351 |
 | 13.26 Lab: Parsing Artifacts at Scale | 50 |
-|     Exercises | 91 |
-|     Answer Key | 136 |
+|     Exercises | 135 |
+|     Answer Key | 168 |
 | 13.27 A Disk Forensics Walkthrough with The Sleuth Kit | 403 |
-|     Exercises | 73 |
-|     Answer Key | 99 |
+|     Exercises | 105 |
+|     Answer Key | 127 |
 | 13.28 Windows Registry Forensics in Depth | 446 |
-|     Exercises | 66 |
-|     Answer Key | 118 |
+|     Exercises | 97 |
+|     Answer Key | 146 |
 | 13.29 Artificial Intelligence in Digital Forensics | 401 |
-|     Exercises | 57 |
-|     Answer Key | 121 |
+|     Exercises | 95 |
+|     Answer Key | 158 |
 | Chapter Summary | 96 |
 | Why This Matters | 76 |
 | News in Focus: When Digital Forensic Evidence Decides a Case | 70 |
-| Review Questions (MCQ) | 298 |
-| Lab Assignment | 172 |
-| References | 177 |
+| Review Questions (MCQ) | 341 |
+| Lab Assignment | 210 |
+| References | 209 |
 
 ### Chapter 14: Incident Response
 
-*10,784 markdown words (21.6 pages); 828 code words.*
+*11,668 markdown words (23.3 pages); 828 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 115 |
-| Key Terms | 163 |
+| Key Terms | 209 |
 | 14.1 Incidents Versus Events | 63 |
-|     Incident Severity Classification | 96 |
+|     Incident Severity Classification | 147 |
 | 14.2 The NIST SP 800-61 Lifecycle | 13 |
 |     Preparation | 123 |
-|     Detection and Analysis | 163 |
+|     Detection and Analysis | 209 |
 |     Containment | 107 |
 |     Eradication | 117 |
 |     Recovery | 87 |
-|     Post-Incident Activity | 111 |
+|     Post-Incident Activity | 164 |
 |     NIST SP 800-61 Rev. 3 and the CSF 2.0 Framing | 139 |
-| 14.3 Legal and Regulatory Obligations | 0 |
+| 14.3 Legal and Regulatory Obligations | 49 |
 |     Breach Notification Laws | 60 |
 |     Law Enforcement and Evidence Preservation | 68 |
 | 14.4 The Assume-Breach Mindset | 133 |
@@ -877,68 +884,68 @@ Last generated: 2026-10-28.
 | 14.12 Writing and Running Playbooks | 58 |
 | 14.13 Evidence Handling and Communication Templates | 225 |
 | 14.14 Tabletop Exercises and Purple Teaming | 119 |
-|     Exercises | 116 |
-|     Answer Key | 171 |
+|     Exercises | 152 |
+|     Answer Key | 197 |
 | 14.15 Threat Intelligence and Attribution in Response | 205 |
 | 14.16 Cloud and SaaS Incident Response | 189 |
 | 14.17 A Second Scenario: A Data-Breach Investigation | 253 |
 | 14.18 Metrics and Continuous Improvement | 144 |
-|     Exercises | 125 |
-|     Answer Key | 158 |
+|     Exercises | 163 |
+|     Answer Key | 193 |
 | 14.19 Incident Response for Operational Technology | 181 |
 | 14.20 Insider and Account-Compromise Incidents | 196 |
 | 14.21 Building the Response Program | 199 |
-|     Exercises | 101 |
-|     Answer Key | 113 |
+|     Exercises | 136 |
+|     Answer Key | 144 |
 | 14.22 Case Study: Business Email Compromise and Wire Fraud | 385 |
 | 14.23 Coordinating with Law Enforcement, Insurers, and Regulators | 210 |
-|     Exercises | 74 |
-|     Answer Key | 127 |
+|     Exercises | 117 |
+|     Answer Key | 157 |
 | 14.24 Communication Templates | 240 |
 | 14.25 A Ransomware Readiness Checklist | 205 |
 | 14.26 Breach Notification Quick Reference | 227 |
-|     Exercises | 90 |
-|     Answer Key | 124 |
+|     Exercises | 123 |
+|     Answer Key | 152 |
 | 14.27 An Incident Report, Annotated | 447 |
-|     Exercises | 56 |
-|     Answer Key | 111 |
+|     Exercises | 93 |
+|     Answer Key | 138 |
 | 14.28 Containment Decisions Under Uncertainty | 361 |
-|     Exercises | 54 |
-|     Answer Key | 123 |
+|     Exercises | 89 |
+|     Answer Key | 146 |
 | 14.29 Incident Response at National Scale: Japan, October 2026 | 689 |
 | Chapter Summary | 133 |
 | Why This Matters | 75 |
 | News in Focus: Attacker Dwell Time in Major Ransomware Incidents | 88 |
-| Review Questions (MCQ) | 320 |
-| Lab Assignment | 211 |
-| References | 308 |
+| Review Questions (MCQ) | 361 |
+| Lab Assignment | 258 |
+| References | 344 |
 
 ### Chapter 15: Malware Analysis
 
-*42,883 markdown words (85.8 pages); 423 code words.*
+*45,539 markdown words (91.1 pages); 423 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 127 |
-| Key Terms | 214 |
-| 15.1 Malware Taxonomy | 0 |
+| Key Terms | 257 |
+| 15.1 Malware Taxonomy | 52 |
 |     Viruses and Worms | 81 |
 |     Trojans and RATs | 53 |
-|     Ransomware | 107 |
+|     Ransomware | 157 |
 |     Rootkits | 65 |
 |     Botnets and Command and Control | 75 |
 | 15.2 Analysis Environment Setup | 123 |
 |     Safe Lab Requirements | 101 |
 |     REMnux and FlareVM | 41 |
-| 15.3 Static Analysis | 0 |
+| 15.3 Static Analysis | 55 |
 |     File Identification | 86 |
 |     PE Analysis | 93 |
 |     YARA Rules | 76 |
 |     Reverse Engineering Malware with Ghidra | 444 |
-| 15.4 Dynamic Analysis | 0 |
+| 15.4 Dynamic Analysis | 40 |
 |     Behavioral Monitoring Tools | 75 |
-|     Common Malware Behaviors to Watch | 92 |
-| 15.5 Anti-Analysis and Evasion Techniques | 0 |
+|     Common Malware Behaviors to Watch | 138 |
+| 15.5 Anti-Analysis and Evasion Techniques | 45 |
 |     VM and Sandbox Detection | 201 |
 |     Packers and Obfuscators | 55 |
 |     Fileless Malware | 44 |
@@ -958,92 +965,92 @@ Last generated: 2026-10-28.
 |     Obfuscation and Deobfuscation | 156 |
 |     Anti-Analysis: Anti-Disassembly, Anti-Debugging, and Anti-VM | 246 |
 |     Packing and Unpacking | 145 |
-|     Shellcode, Buffer Overflows, and Network Attacks | 334 |
-|     Exercises | 140 |
-|     Answer Key | 216 |
+|     Shellcode, Buffer Overflows, and Network Attacks | 381 |
+|     Exercises | 169 |
+|     Answer Key | 243 |
 | 15.11 An End-to-End Analysis Walkthrough | 219 |
 | 15.12 Extracting Indicators of Compromise | 196 |
-|     Exercises | 89 |
-|     Answer Key | 129 |
+|     Exercises | 127 |
+|     Answer Key | 154 |
 | 15.13 Ransomware Internals and the Criminal Economy | 258 |
 | 15.14 Rootkits, Bootkits, and Firmware Malware | 306 |
 | 15.15 Mobile and Cross-Platform Malware | 142 |
-|     Exercises | 86 |
-|     Answer Key | 151 |
+|     Exercises | 125 |
+|     Answer Key | 184 |
 | 15.16 Fileless and Living-off-the-Land Malware | 177 |
 | 15.17 Worms, Botnets, and Supply-Chain Malware | 208 |
 | 15.18 Threat Intelligence and Malware Families | 169 |
-|     Exercises | 80 |
-|     Answer Key | 419 |
+|     Exercises | 118 |
+|     Answer Key | 453 |
 | 15.19 Case Study: Dissecting a Ransomware Sample | 450 |
-|     Exercises | 98 |
-|     Answer Key | 136 |
+|     Exercises | 132 |
+|     Answer Key | 169 |
 | 15.20 A YARA Rule Cookbook | 292 |
 | 15.21 Building and Operating an Analysis Lab | 231 |
-|     Exercises | 77 |
-|     Answer Key | 136 |
+|     Exercises | 114 |
+|     Answer Key | 163 |
 | 15.22 Reading x86-64 Disassembly | 492 |
 |     How cmp and a Conditional Jump Build a Branch | 1,517 |
-|     Exercises | 186 |
-|     Answer Key | 286 |
+|     Exercises | 225 |
+|     Answer Key | 318 |
 | 15.23 Windows Internals for Malware Analysts | 746 |
-|     Exercises | 64 |
-|     Answer Key | 120 |
-| 15.24 Obfuscation and Deobfuscation, Worked | 425 |
-|     Exercises | 56 |
-|     Answer Key | 117 |
-| 15.25 A Dynamic Analysis Session | 369 |
-|     Exercises | 69 |
-|     Answer Key | 119 |
-| 15.26 Analyzing Script and .NET Malware | 458 |
-|     Exercises | 73 |
-|     Answer Key | 133 |
-| 15.27 Linux and ELF Malware Analysis | 412 |
-|     Exercises | 61 |
-|     Answer Key | 90 |
-| 15.28 Extracting Malware Configuration at Scale | 406 |
-|     Exercises | 53 |
-|     Answer Key | 109 |
-| 15.29 Case Study: The WannaCry Worm | 450 |
-|     Exercises | 62 |
-|     Answer Key | 128 |
-| 15.30 A Catalog of Anti-Analysis Techniques | 506 |
-|     Exercises | 56 |
-|     Answer Key | 141 |
-| 15.31 Writing the Malware Analysis Report | 363 |
-|     Exercises | 63 |
-|     Answer Key | 128 |
-| 15.32 Recognizing C++ in Disassembly | 500 |
-|     Exercises | 72 |
+|     Exercises | 94 |
 |     Answer Key | 152 |
+| 15.24 Obfuscation and Deobfuscation, Worked | 425 |
+|     Exercises | 93 |
+|     Answer Key | 147 |
+| 15.25 A Dynamic Analysis Session | 369 |
+|     Exercises | 104 |
+|     Answer Key | 145 |
+| 15.26 Analyzing Script and .NET Malware | 458 |
+|     Exercises | 110 |
+|     Answer Key | 167 |
+| 15.27 Linux and ELF Malware Analysis | 412 |
+|     Exercises | 94 |
+|     Answer Key | 118 |
+| 15.28 Extracting Malware Configuration at Scale | 406 |
+|     Exercises | 87 |
+|     Answer Key | 137 |
+| 15.29 Case Study: The WannaCry Worm | 450 |
+|     Exercises | 100 |
+|     Answer Key | 158 |
+| 15.30 A Catalog of Anti-Analysis Techniques | 506 |
+|     Exercises | 90 |
+|     Answer Key | 175 |
+| 15.31 Writing the Malware Analysis Report | 363 |
+|     Exercises | 97 |
+|     Answer Key | 156 |
+| 15.32 Recognizing C++ in Disassembly | 500 |
+|     Exercises | 113 |
+|     Answer Key | 187 |
 | 15.33 Covert and Stealthy Launching | 402 |
-|     Exercises | 52 |
-|     Answer Key | 155 |
+|     Exercises | 84 |
+|     Answer Key | 189 |
 | 15.34 Malware-Focused Network Signatures | 352 |
-|     Exercises | 63 |
-|     Answer Key | 149 |
+|     Exercises | 100 |
+|     Answer Key | 181 |
 | 15.35 Debuggers, Disassemblers, and Kernel Debugging | 439 |
-|     Exercises | 56 |
-|     Answer Key | 135 |
+|     Exercises | 90 |
+|     Answer Key | 169 |
 | 15.36 AI-Assisted Reverse Engineering | 1,042 |
-|     Exercises | 119 |
-|     Answer Key | 330 |
+|     Exercises | 168 |
+|     Answer Key | 368 |
 | 15.37 A Linux-Only Reverse Engineering Workflow | 1,200 |
-|     Exercises | 128 |
-|     Answer Key | 377 |
+|     Exercises | 173 |
+|     Answer Key | 417 |
 | 15.38 From Source Code to Binary: Toolchains, Artifacts, and What Separates Malware from Software | 1,497 |
-|     Exercises | 231 |
-|     Answer Key | 602 |
+|     Exercises | 274 |
+|     Answer Key | 644 |
 | 15.39 Reverse Engineering as a Discipline: Software, Hardware, AI, Law, and Careers | 748 |
 |     What Reverse Engineering Is, and Why It Is Done | 551 |
 |     Is It Reverse Engineering? Four Questions and Twelve Cases | 1,191 |
-|     Three Domains | 399 |
+|     Three Domains | 445 |
 |     Reverse Engineering in Cybersecurity | 225 |
 |     Law and Ethics | 532 |
 |     A Case Worth Knowing | 200 |
 |     Learning It, and Being Paid For It | 216 |
-|     Exercises | 446 |
-|     Answer Key | 780 |
+|     Exercises | 491 |
+|     Answer Key | 820 |
 | 15.40 The Disassembler Landscape: Ghidra, radare2, Cutter, IDA, and Binary Ninja | 702 |
 | 15.41 The User and Kernel Boundary, and What Crosses It | 464 |
 |     15.41.1 Before the boundary exists: the initramfs and the boot chain | 686 |
@@ -1052,52 +1059,52 @@ Last generated: 2026-10-28.
 |     Two's complement | 437 |
 |     Endianness | 278 |
 |     Reading a memory operand | 145 |
-|     Exercises | 82 |
-|     Answer Key | 109 |
+|     Exercises | 117 |
+|     Answer Key | 142 |
 | 15.44 Launching Versus Attaching: How a Debugger Takes Control | 136 |
-|     15.44.1 The two control paths | 884 |
+|     15.44.1 The two control paths | 941 |
 |     15.44.2 Linux: ptrace and the one-tracer rule | 507 |
 |     15.44.3 Windows: DebugActiveProcess, kill on exit, and privilege | 316 |
 |     15.44.4 macOS: task ports, entitlements, and System Integrity Protection | 126 |
 |     15.44.5 IDEs and language runtimes: the cooperative attach | 333 |
-|     15.44.6 Remote hosts and containers | 398 |
-|     15.44.7 Why the distinction matters for analysis and security | 513 |
-|     Exercises | 275 |
-|     Answer Key | 625 |
+|     15.44.6 Remote hosts and containers | 443 |
+|     15.44.7 Why the distinction matters for analysis and security | 564 |
+|     Exercises | 315 |
+|     Answer Key | 656 |
 | 15.45 Pointers and Process Memory for the Analyst | 512 |
-|     Exercises | 76 |
-|     Answer Key | 130 |
+|     Exercises | 120 |
+|     Answer Key | 169 |
 | Chapter Summary | 137 |
 | Why This Matters | 61 |
 | News in Focus: WannaCry and the Worm That Used a Leaked Exploit (2017) | 286 |
 | News in Focus: Fileless and Living-off-the-Land Attacks | 68 |
-| Review Questions (MCQ) | 335 |
-| Lab Assignment | 176 |
-| References | 1,540 |
+| Review Questions (MCQ) | 377 |
+| Lab Assignment | 222 |
+| References | 1,576 |
 
 ### Chapter 16: Capture the Flag and Competitive Security
 
-*12,924 markdown words (25.8 pages); 818 code words.*
+*13,602 markdown words (27.2 pages); 818 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 140 |
-| Key Terms | 151 |
+| Key Terms | 190 |
 | 16.1 What Is a CTF? | 46 |
 |     Jeopardy Format | 152 |
-| 16.2 Category Deep Dives | 0 |
-|     Web Challenges | 136 |
-|     Forensics Challenges | 151 |
-|     Cryptography Challenges | 128 |
-|     Binary Exploitation (Pwn) | 97 |
-|     Reverse Engineering | 74 |
+| 16.2 Category Deep Dives | 57 |
+|     Web Challenges | 213 |
+|     Forensics Challenges | 188 |
+|     Cryptography Challenges | 198 |
+|     Binary Exploitation (Pwn) | 140 |
+|     Reverse Engineering | 118 |
 |     Tooling, Chapter Mapping, and Workflow | 238 |
 | 16.3 The National Cyber League (NCL) | 81 |
 |     Structure of a Season | 146 |
 |     Challenge Categories | 78 |
 |     Scoring and the NICE Framework | 175 |
 |     How to Prepare and Compete Well | 175 |
-| 16.4 CTF Platforms for Learning | 84 |
+| 16.4 CTF Platforms for Learning | 130 |
 | 16.5 CTF Skills and Professional Mapping | 103 |
 | 16.6 Formats: Jeopardy, Attack-Defense, and King-of-the-Hill | 263 |
 | 16.7 Why CTFs Build Real Skill | 280 |
@@ -1112,10 +1119,10 @@ Last generated: 2026-10-28.
 |     A Worked Example | 414 |
 |     The Write-Up | 95 |
 |     Tooling, and One Constraint Worth Knowing | 157 |
-|     Exercises | 201 |
-|     Answer Key | 348 |
+|     Exercises | 246 |
+|     Answer Key | 373 |
 | 16.13 The Teaching and Research Toolkit: Cost and License | 562 |
-| 16.14 A Two-Part Workshop: From CyberChef Challenges to a Case Briefing | 357 |
+| 16.14 A Two-Part Workshop: From CyberChef Challenges to a Case Briefing | 360 |
 |     Telling the Three Families Apart | 299 |
 |     Part 1: Five Challenges | 839 |
 |     Part 2: Crack the Case | 977 |
@@ -1124,49 +1131,49 @@ Last generated: 2026-10-28.
 | Chapter Summary | 164 |
 | Why This Matters | 62 |
 | News in Focus: Government-Sponsored CTF Competitions | 58 |
-| Review Questions (MCQ) | 314 |
-| Lab Assignment | 164 |
-| References | 741 |
+| Review Questions (MCQ) | 354 |
+| Lab Assignment | 200 |
+| References | 787 |
 
 ### Chapter 17: Emerging Threats and Future Challenges
 
-*23,531 markdown words (47.1 pages); 1,806 code words.*
+*24,552 markdown words (49.1 pages); 1,806 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 109 |
-| Key Terms | 315 |
-| 17.1 Post-Quantum Cryptography | 0 |
+| Key Terms | 359 |
+| 17.1 Post-Quantum Cryptography | 56 |
 |     The Quantum Threat to Current Cryptography | 60 |
 |     NIST PQC Standardization | 177 |
 |     Quantum Key Distribution and the Quantum Horizon | 383 |
-| 17.2 AI-Enabled Attacks and Defenses | 0 |
+| 17.2 AI-Enabled Attacks and Defenses | 53 |
 |     Offensive AI | 161 |
 |     Defensive AI | 77 |
 |     The OWASP Top 10 for LLM Applications (2026) | 392 |
 |     Privacy in LLM Chat and AI Agents | 372 |
 | 17.3 Pattern Matching, Machine Learning, and Deep Learning in Security | 63 |
 |     Pattern Matching: Rules and Signatures | 123 |
-|     Machine Learning: Learning Patterns from Data | 189 |
-|     Deep Learning: Neural Networks at Scale | 229 |
+|     Machine Learning: Learning Patterns from Data | 235 |
+|     Deep Learning: Neural Networks at Scale | 278 |
 |     Adversarial Machine Learning | 398 |
 | 17.4 Privacy-Preserving and Collaborative Machine Learning | 338 |
-|     Case Study: A Privacy-Preserving ML Research Program (SigML, SplitML, Fairis) | 2,448 |
+|     Case Study: A Privacy-Preserving ML Research Program (SigML, SplitML, Fairis) | 2,512 |
 |     Applied Privacy and Trust Systems | 851 |
 | 17.5 Anomaly Detection Across Domains | 271 |
 | 17.6 Modeling, Simulation, and Control for Security | 275 |
 | 17.7 Probability Distributions in Security | 144 |
-|     Four Distributions from Everyday Life | 3,303 |
+|     Four Distributions from Everyday Life | 3,356 |
 |     A Specialized Case: Soliton Distributions in Fountain Codes | 178 |
-|     Exercises | 236 |
-|     Answer Key | 395 |
-| 17.8 Supply Chain Attacks | 0 |
+|     Exercises | 273 |
+|     Answer Key | 438 |
+| 17.8 Supply Chain Attacks | 56 |
 |     Why Supply Chain Is a High-Value Target | 32 |
-|     Notable Supply Chain Attack Patterns | 98 |
+|     Notable Supply Chain Attack Patterns | 143 |
 |     SBOM and Dependency Management | 55 |
 |     Case Study: The LiteLLM 1.107.0 Release (October 2026) | 815 |
-| 17.9 Cloud Security | 0 |
-|     The Shared Responsibility Model | 94 |
+| 17.9 Cloud Security | 64 |
+|     The Shared Responsibility Model | 142 |
 |     Cloud-Native Threats | 34 |
 |     Control Plane and Data Plane | 159 |
 |     Static and Dynamic Stability | 165 |
@@ -1182,11 +1189,11 @@ Last generated: 2026-10-28.
 |     Cloud Security Services and the Cost of DDoS | 230 |
 |     Event-Driven Architecture: Queues, Pub/Sub, and Event Buses | 226 |
 |     AI for Security and Security for AI | 269 |
-| 17.10 Internet of Things Security | 0 |
+| 17.10 Internet of Things Security | 57 |
 |     The IoT Attack Surface | 51 |
 |     Consequences | 57 |
 |     Smart-Home Energy Data and Privacy-Preserving Forecasting | 234 |
-| 17.11 Zero-Day Markets and Disclosure | 0 |
+| 17.11 Zero-Day Markets and Disclosure | 46 |
 |     The Zero-Day Economy | 54 |
 |     Responsible Disclosure and Bug Bounties | 48 |
 | 17.12 Securing AI Systems: Agentic AI, Red Teaming, and the Model Supply Chain | 305 |
@@ -1196,41 +1203,41 @@ Last generated: 2026-10-28.
 |     Case Study: AI Agents Inside Bank Accounts (October 2026) | 670 |
 | 17.13 Big Data Security and Access Control | 397 |
 | 17.14 Sandbox and Virtual-Machine Escape, and What "AI Escaped the Sandbox" Really Means | 1,139 |
-|     Exercises | 92 |
-|     Answer Key | 178 |
+|     Exercises | 135 |
+|     Answer Key | 203 |
 |     Election Security and Electronic Voting | 500 |
 | 17.15 A Map of Open Research Problems | 451 |
 | Chapter Summary | 160 |
 | Why This Matters | 71 |
 | News in Focus: The Post-Quantum Migration Begins | 72 |
-| Review Questions (MCQ) | 416 |
-| Lab Assignment | 192 |
-| References | 836 |
+| Review Questions (MCQ) | 464 |
+| Lab Assignment | 237 |
+| References | 875 |
 
 ### Chapter 18: Privacy, Law, and Information Governance
 
-*7,069 markdown words (14.1 pages); 387 code words.*
+*7,723 markdown words (15.4 pages); 387 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 129 |
-| Key Terms | 170 |
-| 18.1 Foundational Privacy Principles | 0 |
+| Key Terms | 217 |
+| 18.1 Foundational Privacy Principles | 53 |
 |     The 1973 HEW Report and Fair Information Practice Principles | 91 |
 |     The OECD Privacy Guidelines | 109 |
-| 18.2 GDPR | 0 |
+| 18.2 GDPR | 54 |
 |     Scope and Jurisdiction | 75 |
 |     Lawful Bases for Processing | 115 |
 |     Data Subject Rights | 135 |
 |     GDPR Breach Notification | 57 |
-| 18.3 US Privacy Law | 0 |
+| 18.3 US Privacy Law | 50 |
 |     HIPAA | 104 |
 |     CCPA and the California Privacy Rights Act (CPRA) | 60 |
 |     FERPA and COPPA | 45 |
-| 18.4 PCI DSS | 0 |
+| 18.4 PCI DSS | 51 |
 |     Scope and Requirements | 73 |
 |     Scoping and Cardholder Data Environment | 59 |
-| 18.5 Privacy by Design | 0 |
+| 18.5 Privacy by Design | 51 |
 |     The Seven Foundational Principles | 60 |
 |     Data Protection Impact Assessments | 179 |
 | 18.6 The Fourth Amendment and the Reasonable Expectation of Privacy | 54 |
@@ -1243,52 +1250,52 @@ Last generated: 2026-10-28.
 | 18.9 The Global Privacy Landscape and Breach Notification | 222 |
 | 18.10 Cryptography, Lawful Access, and Privacy-Enhancing Technologies | 330 |
 | 18.11 Anonymity Networks and Privacy-Focused Operating Systems | 898 |
-|     Exercises | 79 |
-|     Answer Key | 154 |
+|     Exercises | 124 |
+|     Answer Key | 187 |
 | 18.12 Mass Surveillance and the Reasonable Expectation of Privacy: Automated License Plate Readers | 575 |
-|     Exercises | 78 |
-|     Answer Key | 182 |
+|     Exercises | 119 |
+|     Answer Key | 218 |
 | Chapter Summary | 107 |
 | Why This Matters | 50 |
 | News in Focus: Billion-Euro GDPR Enforcement | 76 |
-| Review Questions (MCQ) | 328 |
-| Lab Assignment | 207 |
-| References | 68 |
+| Review Questions (MCQ) | 376 |
+| Lab Assignment | 253 |
+| References | 101 |
 
 ### Chapter 19: Security Governance, Policy, and Culture
 
-*15,865 markdown words (31.7 pages); 482 code words.*
+*17,150 markdown words (34.3 pages); 482 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 189 |
-| Key Terms | 256 |
+| Key Terms | 313 |
 | 19.1 What Security Governance Is | 48 |
 |     Why Governance Matters | 50 |
-| 19.2 The CISO Role | 0 |
+| 19.2 The CISO Role | 61 |
 |     Strategic Responsibilities | 44 |
-|     Organizational Models | 89 |
+|     Organizational Models | 146 |
 |     Reporting Lines and Independence | 102 |
-| 19.3 The Policy Hierarchy | 0 |
+| 19.3 The Policy Hierarchy | 62 |
 |     Policy | 92 |
 |     Standard | 47 |
 |     Process | 157 |
 |     Procedure | 54 |
 |     Guideline | 43 |
-|     A Worked Example: When Claude Ends an Abusive Chat | 1,768 |
-| 19.4 Board-Level Security Reporting | 0 |
+|     A Worked Example: When Claude Ends an Abusive Chat | 1,904 |
+| 19.4 Board-Level Security Reporting | 52 |
 |     Communicating Risk in Business Language | 68 |
-|     Key Metrics for Board Reporting | 78 |
+|     Key Metrics for Board Reporting | 126 |
 |     Key Risk Indicators | 47 |
-| 19.5 Security Culture | 0 |
+| 19.5 Security Culture | 63 |
 |     What Culture Is and Why It Matters | 89 |
 |     Tone at the Top | 66 |
-|     Building a Positive Security Culture | 115 |
-| 19.6 Common Compliance Frameworks | 216 |
+|     Building a Positive Security Culture | 183 |
+| 19.6 Common Compliance Frameworks | 277 |
 |     Frameworks, Methodologies, and Tools | 117 |
 |     NIST CSF, the Risk Management Framework (RMF), ISO/IEC 27001, and the RMF Compared | 195 |
 |     FISMA in Depth | 275 |
-|     NIST SP 800-53 in Depth | 262 |
+|     NIST SP 800-53 in Depth | 316 |
 |     FedRAMP in Depth | 411 |
 | 19.7 NIST Cybersecurity Framework 2.0 and the Govern Function | 268 |
 |     The NIST AI Risk Management Framework (AI RMF 1.0) | 249 |
@@ -1303,8 +1310,8 @@ Last generated: 2026-10-28.
 | 19.12 What a Security Program Costs, and How It Gets Funded | 100 |
 |     A build-up, with numbers | 190 |
 |     Sticker price is not cost | 151 |
-|     Exercises | 59 |
-|     Answer Key | 43 |
+|     Exercises | 103 |
+|     Answer Key | 88 |
 | 19.13 Risk Appetite and Tolerance, Written So a Board Can Act on Them | 145 |
 |     Writing appetite in numbers | 256 |
 | 19.14 The Three Lines Model, and the Criticisms of It | 225 |
@@ -1316,8 +1323,8 @@ Last generated: 2026-10-28.
 | 19.17 Metrics That Survive an Executive Audience | 62 |
 |     Why the mean misleads, worked | 192 |
 |     The vanity metric this field cannot let go of | 243 |
-|     Exercises | 50 |
-|     Answer Key | 72 |
+|     Exercises | 94 |
+|     Answer Key | 117 |
 | 19.18 Committees, Decision Rights, and Who Actually Decides | 175 |
 |     Decision rights on one real decision | 204 |
 | 19.19 Third-Party and Supply-Chain Governance | 236 |
@@ -1329,67 +1336,67 @@ Last generated: 2026-10-28.
 |     SolarWinds, and what it established | 140 |
 |     New York's Part 500, where governance produces a signature | 182 |
 |     One conviction, and two duties abroad | 260 |
-|     Exercises | 78 |
-|     Answer Key | 103 |
+|     Exercises | 123 |
+|     Answer Key | 142 |
 | 19.22 Tabletop Exercises at Board Level | 155 |
 |     A worked inject | 225 |
 | 19.23 Measuring Culture Instead of Asserting It | 270 |
 |     What the evidence says about the standard intervention | 166 |
-|     Exercises | 66 |
-|     Answer Key | 101 |
+|     Exercises | 111 |
+|     Answer Key | 138 |
 | Chapter Summary | 213 |
 | Why This Matters | 63 |
 | News in Focus: What the SolarWinds Case Did and Did Not Settle | 197 |
-| Review Questions (MCQ) | 691 |
-| Lab Assignment | 190 |
-| References | 642 |
+| Review Questions (MCQ) | 738 |
+| Lab Assignment | 247 |
+| References | 688 |
 
 ### Chapter 20: Industrial Control Systems and OT Security
 
-*13,679 markdown words (27.4 pages); 442 code words.*
+*14,627 markdown words (29.3 pages); 442 code words.*
 
 | Section | Words |
 |---|---:|
 | Learning Objectives | 173 |
-| Key Terms | 299 |
+| Key Terms | 349 |
 | 20.1 IT Versus OT: A Fundamental Difference in Priorities | 75 |
 |     Safety as the Overriding Priority | 57 |
-| 20.2 ICS Components | 0 |
+| 20.2 ICS Components | 58 |
 |     Programmable Logic Controllers | 72 |
 |     SCADA Systems | 53 |
 |     Human-Machine Interfaces | 60 |
 | 20.3 The Purdue Model and Network Segmentation | 328 |
 |     The Industrial DMZ | 57 |
 |     Air Gaps and Their Limitations | 66 |
-| 20.4 OT-Specific Security Challenges | 0 |
+| 20.4 OT-Specific Security Challenges | 54 |
 |     Legacy Equipment and Long Lifecycles | 69 |
 |     Availability Requirements | 51 |
 |     Protocol Insecurity | 65 |
-| 20.5 ICS Malware Case Studies | 0 |
+| 20.5 ICS Malware Case Studies | 52 |
 |     Stuxnet (2010) | 69 |
 |     Industroyer/CRASHOVERRIDE (2016) | 93 |
 |     TRITON/TRISIS (2017) | 56 |
-| 20.6 IEC 62443 and NIST SP 800-82 | 0 |
+| 20.6 IEC 62443 and NIST SP 800-82 | 47 |
 |     IEC 62443 | 49 |
 |     NIST SP 800-82 | 41 |
 | 20.7 OT Defense-in-Depth | 350 |
 | 20.8 OT Incident Response, Safety, and Resilience | 557 |
 | 20.9 Why OT Networks Stay Flat | 97 |
-|     Four reasons the flatness is load bearing | 307 |
+|     Four reasons the flatness is load bearing | 362 |
 |     What the Purdue model assumes, and what breaks it | 231 |
 |     Where to start when you cannot re-architect | 77 |
 | 20.10 The Protocols, and Why the Old Ones Cannot Authenticate Anything | 65 |
 |     Modbus, byte by byte | 505 |
-|     The rest of the family | 440 |
+|     The rest of the family | 493 |
 |     Why the old designs cannot simply be fixed | 160 |
-|     Exercises | 88 |
-|     Answer Key | 171 |
+|     Exercises | 138 |
+|     Answer Key | 210 |
 | 20.11 Safety Instrumented Systems, and Where Safety and Security Collide | 59 |
 |     The problem an independent layer solves | 321 |
 |     The arithmetic, with real numbers | 491 |
-|     Five places the two disciplines actually collide | 322 |
-|     Exercises | 122 |
-|     Answer Key | 151 |
+|     Five places the two disciplines actually collide | 375 |
+|     Exercises | 169 |
+|     Answer Key | 189 |
 | 20.12 IEC 62443 in Practice: Zones, Conduits, and Security Levels | 67 |
 |     Which part answers which question | 179 |
 |     The seven foundational requirements | 118 |
@@ -1400,8 +1407,8 @@ Last generated: 2026-10-28.
 |     The patch clock, worked | 200 |
 |     The reporting clock | 109 |
 |     What was added most recently | 128 |
-|     Exercises | 94 |
-|     Answer Key | 135 |
+|     Exercises | 137 |
+|     Answer Key | 171 |
 | 20.14 The Incidents That Changed Practice | 1,193 |
 |     Cyber Warfare, Cyber Operations, and the Law of Armed Conflict | 491 |
 | 20.15 Why Active Scanning Is Dangerous, and What Passive Monitoring Buys | 45 |
@@ -1412,30 +1419,30 @@ Last generated: 2026-10-28.
 |     Vulnerability management without patching | 371 |
 |     Remote access, which you cannot simply forbid | 308 |
 |     Response you cannot rush | 300 |
-|     Exercises | 96 |
-|     Answer Key | 146 |
+|     Exercises | 136 |
+|     Answer Key | 183 |
 | Chapter Summary | 176 |
 | Why This Matters | 81 |
 | News in Focus: Attacks on Water-Treatment Facilities | 314 |
-| Review Questions (MCQ) | 626 |
-| Lab Assignment | 193 |
-| References | 276 |
+| Review Questions (MCQ) | 671 |
+| Lab Assignment | 240 |
+| References | 310 |
 
 ### Appendix A: Security Command Reference
 
-*1,681 markdown words (3.4 pages); 0 code words.*
+*2,019 markdown words (4.0 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
-| Network Scanning and Enumeration | 0 |
-|     Nmap | 80 |
-|     DNS Enumeration | 39 |
-|     Web Enumeration | 37 |
-| Password and Credential Tools | 54 |
-| Forensics | 82 |
-| Network Analysis | 49 |
-| Cryptography | 72 |
-| Python One-Liners | 42 |
+| Network Scanning and Enumeration | 37 |
+|     Nmap | 126 |
+|     DNS Enumeration | 79 |
+|     Web Enumeration | 70 |
+| Password and Credential Tools | 98 |
+| Forensics | 121 |
+| Network Analysis | 79 |
+| Cryptography | 111 |
+| Python One-Liners | 72 |
 | Security Tools Reference | 30 |
 |     Metasploit Framework (exploitation -- Chapter 9) | 39 |
 |     Wireshark / tshark (packet analysis -- Chapters 3, 8) | 36 |
@@ -1458,7 +1465,7 @@ Last generated: 2026-10-28.
 
 ### Appendix B: Glossary
 
-*5,659 markdown words (11.3 pages); 0 code words.*
+*5,863 markdown words (11.7 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
@@ -1466,24 +1473,24 @@ Last generated: 2026-10-28.
 | Cloud and Infrastructure Terminology | 1,490 |
 | Adversary and Threat-Model Terminology | 579 |
 | Reverse Engineering Acronyms and Notation | 54 |
-|     Executable formats and file structure | 241 |
-|     Processor and architecture | 93 |
-|     Windows internals | 111 |
-|     Tools and projects | 247 |
-|     Standards, law and certification | 116 |
+|     Executable formats and file structure | 284 |
+|     Processor and architecture | 134 |
+|     Windows internals | 148 |
+|     Tools and projects | 289 |
+|     Standards, law and certification | 157 |
 |     Notation that is not an acronym | 102 |
 
 ### Appendix C: Certification Mapping
 
-*1,861 markdown words (3.7 pages); 0 code words.*
+*2,091 markdown words (4.2 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
-| C.1 (ISC)2 CISSP - 8 Domains | 177 |
-| C.2 CompTIA Security+ SY0-701 - 5 Domains | 129 |
-| C.3 EC-Council CEH v13 - 9 Domains | 175 |
-| C.4 ISACA CISA - 5 Domains | 140 |
-| C.5 (ISC)2 CGRC / CAP - 7 Job Practice Areas (the NIST Risk Management Framework, RMF) | 167 |
+| C.1 (ISC)2 CISSP - 8 Domains | 225 |
+| C.2 CompTIA Security+ SY0-701 - 5 Domains | 171 |
+| C.3 EC-Council CEH v13 - 9 Domains | 226 |
+| C.4 ISACA CISA - 5 Domains | 180 |
+| C.5 (ISC)2 CGRC / CAP - 7 Job Practice Areas (the NIST Risk Management Framework, RMF) | 216 |
 | C.6 (ISC)2 SSCP - 7 Domains | 132 |
 | C.7 (ISC)2 Certified in Cybersecurity (CC) - 5 Domains | 147 |
 | C.8 GIAC GREM (Reverse Engineering Malware) - Topic Areas | 147 |
@@ -1491,38 +1498,38 @@ Last generated: 2026-10-28.
 
 ### Appendix D: ABET Outcomes and Bloom's Taxonomy Mapping
 
-*775 markdown words (1.6 pages); 0 code words.*
+*856 markdown words (1.7 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
-| ABET Student Outcomes (computing programs, Criterion 3) | 99 |
-| Bloom's Revised Cognitive Taxonomy (lowest to highest order) | 93 |
+| ABET Student Outcomes (computing programs, Criterion 3) | 140 |
+| Bloom's Revised Cognitive Taxonomy (lowest to highest order) | 133 |
 | Chapter Mapping | 382 |
 | Coverage Summary | 137 |
 
 ### Appendix E: Selected Works by the Author
 
-*1,583 markdown words (3.2 pages); 0 code words.*
+*1,836 markdown words (3.7 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
-| Cryptography and Privacy-Preserving Computation | 263 |
-| Privacy-Preserving Machine Learning and Emerging Topics | 191 |
-| Security Analytics, Monitoring, and Detection | 68 |
-| Networking, Wireless, and Packet Analysis | 121 |
-| Offensive Security, Social Engineering, and Capture the Flag | 135 |
-| Software, Systems, Data, and Governance | 313 |
+| Cryptography and Privacy-Preserving Computation | 311 |
+| Privacy-Preserving Machine Learning and Emerging Topics | 233 |
+| Security Analytics, Monitoring, and Detection | 99 |
+| Networking, Wireless, and Packet Analysis | 160 |
+| Offensive Security, Social Engineering, and Capture the Flag | 179 |
+| Software, Systems, Data, and Governance | 362 |
 | Additional Notes, Talks, and Early Works (by topic) | 405 |
 
 ### Appendix F: Companion Code and Repositories
 
-*1,284 markdown words (2.6 pages); 0 code words.*
+*1,388 markdown words (2.8 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
 | Worked Code Examples in This Book | 477 |
-| Author Repositories (github.com/devharsh) | 191 |
-| Computer Tips Organization (github.com/com-puter-tips) | 192 |
+| Author Repositories (github.com/devharsh) | 246 |
+| Computer Tips Organization (github.com/com-puter-tips) | 241 |
 | Companion Blog Tutorials (com.puter.tips) | 350 |
 
 ### Appendix H: Capstone and Group Project Ideas
@@ -1545,27 +1552,27 @@ Last generated: 2026-10-28.
 
 ### Appendix I: Protocol Security Reference
 
-*4,073 markdown words (8.1 pages); 0 code words.*
+*4,630 markdown words (9.3 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
-| I.1 Internet and Transport Layer | 278 |
-| I.2 Naming and Address Assignment | 270 |
-| I.3 Web, Transport Security, and Identity | 392 |
-| I.4 Email | 128 |
-| I.5 File Transfer, Remote Access, and Sharing | 338 |
-| I.6 Management, Authentication, Time, and Logging | 296 |
-| I.7 VPN and Tunneling | 240 |
-| I.8 Routing, Switching, and Redundancy | 197 |
-| I.9 Wireless | 139 |
-| I.10 Multimedia, Messaging, IoT, and Discovery | 337 |
-| I.11 Industrial Control Systems and Operational Technology | 192 |
+| I.1 Internet and Transport Layer | 338 |
+| I.2 Naming and Address Assignment | 323 |
+| I.3 Web, Transport Security, and Identity | 447 |
+| I.4 Email | 180 |
+| I.5 File Transfer, Remote Access, and Sharing | 391 |
+| I.6 Management, Authentication, Time, and Logging | 338 |
+| I.7 VPN and Tunneling | 287 |
+| I.8 Routing, Switching, and Redundancy | 246 |
+| I.9 Wireless | 187 |
+| I.10 Multimedia, Messaging, IoT, and Discovery | 391 |
+| I.11 Industrial Control Systems and Operational Technology | 236 |
 | I.12 Storage Interfaces | 152 |
 | I.13 How to Use This Reference | 127 |
 
 ### Appendix J: Adversary Models
 
-*3,794 markdown words (7.6 pages); 0 code words.*
+*3,911 markdown words (7.8 pages); 0 code words.*
 
 | Section | Words |
 |---|---:|
@@ -1588,9 +1595,9 @@ Last generated: 2026-10-28.
 | J.6 Adversary Models for Homomorphic Encryption | 333 |
 | J.7 Multi-Key Settings | 418 |
 | J.8 Composing a Complete Threat Model | 190 |
-| J.9 Worked Numerical Examples | 413 |
-| J.10 Exercises | 238 |
-|     Answer Key | 270 |
+| J.9 Worked Numerical Examples | 467 |
+| J.10 Exercises | 275 |
+|     Answer Key | 296 |
 
 ### Appendix K: Course Materials and Sample Assignments
 

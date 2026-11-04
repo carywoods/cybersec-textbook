@@ -88,6 +88,8 @@ are versions of the base protocols, each of which is expanded in its own row bel
 
 ## I.1 Internet and Transport Layer
 
+This table covers the protocols that carry packets across and between networks: IP with its ICMP and IGMP companions, ARP for local address mapping, and the TCP, UDP, and SCTP transports. For each one, the columns give the full name, the defining RFC and year, the port or layer, its usage, the common attacks against it, and the key defenses.
+
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
 | IP (Internet Protocol) | RFC 791 IPv4 (1981); RFC 8200 IPv6 (2017) | none (layer 3) | Host addressing and packet routing | Address spoofing, fragmentation abuse, option abuse | Ingress/egress filtering (BCP 38), reverse-path checks, IPsec |
@@ -101,6 +103,8 @@ are versions of the base protocols, each of which is expanded in its own row bel
 Discussed mainly in Chapter 3 (networking) and Chapter 11 (network defense).
 
 ## I.2 Naming and Address Assignment
+
+Name resolution and automatic addressing are covered here, from DNS and its signed and encrypted variants to DHCP and the local fallback protocols LLMNR, mDNS, and NetBIOS. Read each row from left to right to find the standard and ports, what the protocol does, how it is attacked, and how to defend it.
 
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
@@ -116,6 +120,8 @@ Discussed mainly in Chapter 3 (networking) and Chapter 11 (network defense).
 Discussed mainly in Chapters 3, 7, and 11.
 
 ## I.3 Web, Transport Security, and Identity
+
+The rows below cover web traffic and the security and identity layers around it: HTTP in its three versions, QUIC, TLS and its predecessor SSL, DTLS, HTTPS, WebSocket, and the identity protocols OAuth 2.0, SAML 2.0, and OpenID Connect. The columns move from the defining standard and ports to usage, common attacks, and key defenses.
 
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
@@ -136,6 +142,8 @@ Discussed mainly in Chapters 2, 3, 10, and 17.
 
 ## I.4 Email
 
+This table covers the three email protocols: SMTP, which sends and relays messages, and POP3 and IMAP, which let clients download mail or access a mailbox on the server. Its columns give each protocol's standard, its plain and TLS-protected ports, its usage, the attacks it faces, and the defenses that counter them.
+
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
 | SMTP (Simple Mail Transfer Protocol) | RFC 5321 (2008; orig 821, 1982) | 25, 587 (submission), 465 (SMTPS) | Sends and relays email | Spoofing, open relay, spam, sniffing | SPF, DKIM, DMARC, STARTTLS, MTA-STS |
@@ -145,6 +153,8 @@ Discussed mainly in Chapters 2, 3, 10, and 17.
 Discussed mainly in Chapters 3 and 4.
 
 ## I.5 File Transfer, Remote Access, and Sharing
+
+Here the table gathers protocols for moving files, reaching remote machines, and sharing resources: FTP, FTPS, SFTP, and TFTP, the SSH and Telnet remote shells, the RDP and VNC remote desktops, and the SMB and NFS file-sharing protocols. Use the attacks and defenses columns to compare legacy cleartext protocols with their secured replacements.
 
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
@@ -163,6 +173,8 @@ Discussed mainly in Chapters 3, 9, 11, and 13.
 
 ## I.6 Management, Authentication, Time, and Logging
 
+This table collects the protocols that manage devices, authenticate users, synchronize time, and transport logs: SNMP, LDAP, Kerberos, RADIUS, TACACS+, NTP, syslog, and 802.1X with EAP. Each row pairs the protocol's standard, ports, and usage with its common attacks and key defenses.
+
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
 | SNMP (Simple Network Management Protocol) | RFC 1157 v1 (1990); RFC 3411-3418 v3 (2002) | 161, 162 (traps) UDP | Monitoring and managing network devices | Default community strings, info leak, amplification | SNMPv3 (authentication and privacy), ACLs, change defaults |
@@ -178,6 +190,8 @@ Discussed mainly in Chapters 9, 11, and 12.
 
 ## I.7 VPN and Tunneling
 
+The VPN and tunneling protocols listed here range from IPsec, OpenVPN, and WireGuard to L2TP, GRE, and PPP, along with the legacy PPTP. The columns show each protocol's standard, its ports or IP protocol number, its usage, common attacks, and the defenses or replacements the table recommends.
+
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
 | IPsec (ESP/AH/IKEv2) | ESP RFC 4303 (2005); IKEv2 RFC 7296 (2014) | IKE 500/4500 UDP; ESP IP proto 50 | Encrypted IP tunnels and VPNs | Aggressive-mode PSK cracking, downgrade | IKEv2, strong DH groups, certificate auth |
@@ -192,6 +206,8 @@ Discussed mainly in Chapter 11.
 
 ## I.8 Routing, Switching, and Redundancy
 
+This table covers protocols that route traffic between and within networks and keep switched LANs and default gateways working: BGP, OSPF, RIP, Spanning Tree, VLAN tagging, and VRRP. For each, it lists the standard, port or layer, usage, typical attacks such as hijacking and spoofing, and the key defenses.
+
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
 | BGP (Border Gateway Protocol) | RFC 4271 BGP-4 (2006) | 179 TCP | Inter-domain Internet routing | Prefix/route hijacking, route leaks | RPKI/ROA, prefix filters, max-prefix limits, BGPsec |
@@ -205,6 +221,8 @@ Discussed mainly in Chapters 3 and 11.
 
 ## I.9 Wireless
 
+The four Wi-Fi security protocols in this table run from the original WEP through WPA and WPA2 to WPA3, plus the WPS pairing feature. The port column reads n/a for all of them, and the attacks and defenses columns show why WEP and WPS should not be used.
+
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
 | WEP (Wired Equivalent Privacy) | IEEE 802.11 (1997) | n/a (layer 2) | Original Wi-Fi encryption | Completely broken (RC4/IV reuse) | Never use; move to WPA2/WPA3 |
@@ -215,6 +233,8 @@ Discussed mainly in Chapters 3 and 11.
 Discussed mainly in Chapters 3, 7, and 11.
 
 ## I.10 Multimedia, Messaging, IoT, and Discovery
+
+This table gathers a varied group: voice and video protocols such as SIP, RTP, and RTSP, device discovery through UPnP and SSDP, IoT and enterprise messaging through MQTT, CoAP, and AMQP, and chat and peer-to-peer protocols including XMPP, IRC, and BitTorrent. The columns give each protocol's standard, ports, usage, common attacks, and key defenses.
 
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|
@@ -232,6 +252,8 @@ Discussed mainly in Chapters 3, 7, and 11.
 Discussed mainly in Chapters 3, 7, 15, and 17.
 
 ## I.11 Industrial Control Systems and Operational Technology
+
+The industrial protocols in this table, Modbus, DNP3, S7comm, PROFINET, BACnet, and OPC UA, connect PLCs, SCADA systems, and building automation. Their rows list the governing specification, ports, usage, common attacks, and key defenses, and segmentation appears as a defense for most of them.
 
 | Protocol (full form) | RFC / standard (year) | Port(s) | Usage | Common attacks | Key defenses |
 |------------|---------|-----|------------|------------|------------|

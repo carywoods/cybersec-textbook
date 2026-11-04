@@ -1,5 +1,7 @@
 # Cybersecurity: Theory, Practice, and Ethics
 
+A free, open-source textbook that bridges rigorous theory and hands-on practice across cybersecurity, from cryptography and networking to digital forensics, governance, privacy, and law. It is layered for readers from high school through postdoctoral level and mapped to the CISSP, Security+, CEH, CISA, and CGRC certifications.
+
 ```{image} assets/figures/hacker-logo.png
 :alt: A hooded figure at a laptop against a circuit-board background, the cover art for this textbook
 :width: 420px
@@ -13,7 +15,7 @@
 City University of New York\
 ORCID: https://orcid.org/0000-0001-6374-7249
 
-*Last updated on 10/28/2026 at 13:35:04 EDT*
+*Last updated on 11/04/2026 at 14:21:24 EST*
 
 ---
 
@@ -23,6 +25,8 @@ governance, privacy and law, and emerging topics. It is layered to serve readers
 postdoctoral level and is mapped to the CISSP, Security+, CEH, CISA, and CGRC certifications.
 
 ## Start Here
+
+If you are new to the book, the links below give a short reading path: the introduction and preface explain how the material is organized and how to use it, and Part I is where the chapters begin.
 
 - {doc}`Introduction <chapters/00_intro/introduction>` -- course mapping, what every chapter contains, how
   to cite this book, and the license.
